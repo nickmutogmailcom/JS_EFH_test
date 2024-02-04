@@ -1,0 +1,22 @@
+{
+  "name": "js_efh_test",
+  "version": "1.0.0",
+  "description": "Prova di test per JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmutogmailcom/JS_EFH_test.git"
+  },
+  "author": "Nicola Muto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmutogmailcom/JS_EFH_test/issues"
+  },
+  "homepage": "https://github.com/nickmutogmailcom/JS_EFH_test#readme",
+  "dependencies": {
+    "inquirer": "^9.2.13"
+  }
+}
